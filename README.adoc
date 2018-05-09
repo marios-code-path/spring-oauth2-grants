@@ -1,0 +1,38 @@
+= Spring Reactive Oauth2
+Mario Gray <mgray@pivotal.io>
+:Author Initials: MVG
+:toc:
+:icons:
+:numbered:
+:imagesdir: ./graphics
+:website: https://projects.spring.io/spring-security/
+
+== Purpose
+
+
+
+
+== Oauth2 Primer
+
+== Setup Spring Security
+
+=== HTTP Coonfiguration
+
+
+=== Resource Server
+
+=== User Credential Store
+
+=== User Principal Store
+
+== Security across Service boundaries
+
+=== Client Credential
+
+==== HTTP/Oauth2
+==== gRPC 
+==== Twitter Finagle
+
+== Afterwords
+
+=== Reading List
